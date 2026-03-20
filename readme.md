@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just A Guy Who Is Trying To Get Know And Get Better In Field Of AI-ML <br> Made 2 pull requests for the first time. <br> This month one for a project in way of knowing the field better.
+Just A Guy Who Is Trying To Get Know And Get Better In Field Of AI-ML <br> Made 2 pull requests for the first time this month one for a project in way of knowing the field better.
 
 
 ## 🌐 Socials:
