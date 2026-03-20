@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working On Projects Related To AI-ML and also trying to get internships in field of ai engineering, data science, data analyst.<br>I made 2 pull requests this month one for a project of esoc and one for gsoc. <br>My skills include Python, Pandas,Numpy, Streamlit etc in field of AI-ML
+Just A Guy Who Is Trying To Get Know And Get Better In Field Of AI-ML <br> Made 2 pull requests for the first time. <br> This month one for a project in way of knowing the field better.
 
 
 ## 🌐 Socials:
@@ -16,8 +16,8 @@ I'm Currently Working On Projects Related To AI-ML and also trying to get intern
 ![](https://github-profile-trophy.vercel.app/?username=rachit23tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rachit23tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![]([https://github-contributor-stats.vercel.app/api?username=rachit23tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+](https://github.com/rachit23tech/DDR-AI-System)
 ---
 [![](https://visitcount.itsvg.in/api?id=rachit23tech&icon=1&color=0)](https://visitcount.itsvg.in)
 
