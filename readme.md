@@ -1,10 +1,59 @@
-# 💫 About Me:
-Just A Guy Going With The Flow.
+<h1 align="center">Hey, I'm Rachit 👋</h1>
 
+<p align="center">
+  Undergrad • Full Stack Developer • Building things with AI
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fWCv3nN3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rachit-arora-95672b30a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arorarachit2005@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rachit-arora-95672b30a/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:arorarachit2005@gmail.com">Email</a> &nbsp;·&nbsp;
+  Pune, India
+</p>
 
-# 💻 Tech Stack:
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+---
 
+## About
+
+I'm a CS undergrad who builds full stack web applications — mostly with React, Node.js, and Python on the backend. Lately I've been integrating LLMs into my projects using the OpenAI API, Gemini, HuggingFace, and Ollama.
+
+I care about shipping things that actually work, not just projects that look good in a README.
+
+Currently **open to internship opportunities** in full stack or AI-integrated web development.
+
+---
+
+## What I Build With
+
+**Languages** — JavaScript · TypeScript · Python
+
+**Frontend** — React · HTML/CSS
+
+**Backend** — Node.js · Express · FastAPI
+
+**AI/LLM** — OpenAI API · Gemini API · HuggingFace · Ollama
+
+**Databases** — MongoDB · MySQL
+
+**Deployment** — Vercel · Firebase · Netlify
+
+---
+
+## Featured Projects
+
+**[VenueSync](https://github.com/rachit23tech/VenueSync)** — Full stack event management app built for large-scale venues. Handles real-time coordination across the entire concert experience.
+
+**[BidBuds](https://github.com/rachit23tech/BidBuds)** — Real-time live auction platform with instant bid updates using WebSockets. Built with Node.js, React, and Socket.io.
+
+**[Devmind](https://github.com/rachit23tech/Devmind)** — AI web agent that assists developers through ideation, code generation, debugging, and optimization.
+
+**[Unbiased AI Decision](https://github.com/rachit23tech/Unbiased-AI-Decision)** — Platform for detecting and documenting bias in automated decision-making systems before they affect real people.
+
+**[EMS](https://github.com/rachit23tech/EMS)** — Employee management system with role-based access control for HR and managers.
+
+---
+
+## Currently
+
+- 🎓 Studying Computer Science (undergrad)
+- 🔭 Building projects at the intersection of full stack and AI
+- 📬 Looking for internships — reach me at [arorarachit2005@gmail.com](mailto:arorarachit2005@gmail.com)
