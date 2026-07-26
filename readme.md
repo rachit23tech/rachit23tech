@@ -39,6 +39,6 @@ Open to internship opportunities in data engineering.
 
 ## Currently
 
-- 🎓 Studying Computer Science (undergrad)
-- 🔭 Building projects at the intersection of full stack and AI
+- 🎓 Studying Information Technology (undergrad)
+- 🔭 Building Pipelines that actually are a need
 - 📬 Looking for internships — reach me at [arorarachit2005@gmail.com](mailto:arorarachit2005@gmail.com)
