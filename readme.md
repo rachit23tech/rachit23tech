@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rachit 👋</h1>
 
 <p align="center">
-  3rd year Undergrad • Data Engineer • Building things with AI for AI
+  3rd year Undergrad • Data Engineer • Learning By Building
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## About
 
-3rd year IT undergrad building a career in data engineering.
+3rd year IT undergrad & Data Engineer.
 
 I care about shipping pipelines that actually run in production, not just projects that look good in a README.
 
