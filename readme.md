@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rachit 👋</h1>
 
 <p align="center">
-  Undergrad • Full Stack Developer • Building things with AI
+  3rd year Undergrad • Data Engineer • Building things with AI for AI
 </p>
 
 <p align="center">
@@ -14,41 +14,26 @@
 
 ## About
 
-I'm a CS undergrad who builds full stack web applications — mostly with React, Node.js, and Python on the backend. Lately I've been integrating LLMs into my projects using the OpenAI API, Gemini, HuggingFace, and Ollama.
+3rd year IT undergrad building a career in data engineering.
 
-I care about shipping things that actually work, not just projects that look good in a README.
+I care about shipping pipelines that actually run in production, not just projects that look good in a README.
 
-Currently **open to internship opportunities** in full stack or AI-integrated web development.
+Currently working through the DE Zoomcamp and building out projects on a real fintech-style dataset, alongside DSA fundamentals.
+
+Open to internship opportunities in data engineering.
 
 ---
 
 ## What I Build With
 
-**Languages** — JavaScript · TypeScript · Python
+**Languages — Python · JavaScript · TypeScript**
 
-**Frontend** — React · HTML/CSS
-
-**Backend** — Node.js · Express · FastAPI
-
-**AI/LLM** — OpenAI API · Gemini API · HuggingFace · Ollama
-
-**Databases** — MongoDB · MySQL
-
-**Deployment** — Vercel · Firebase · Netlify
-
----
-
-## Featured Projects
-
-**[VenueSync](https://github.com/rachit23tech/VenueSync)** — Full stack event management app built for large-scale venues. Handles real-time coordination across the entire concert experience.
-
-**[BidBuds](https://github.com/rachit23tech/BidBuds)** — Real-time live auction platform with instant bid updates using WebSockets. Built with Node.js, React, and Socket.io.
-
-**[Devmind](https://github.com/rachit23tech/Devmind)** — AI web agent that assists developers through ideation, code generation, debugging, and optimization.
-
-**[Unbiased AI Decision](https://github.com/rachit23tech/Unbiased-AI-Decision)** — Platform for detecting and documenting bias in automated decision-making systems before they affect real people.
-
-**[EMS](https://github.com/rachit23tech/EMS)** — Employee management system with role-based access control for HR and managers.
+**Data Engineering — SQL · Pandas · Airflow**
+**Databases — PostgreSQL · MongoDB · MySQL**
+**Backend — FastAPI · Node.js · Express**
+**AI/LLM — OpenAI API · Gemini API · HuggingFace · Ollama**
+**Frontend — React · HTML/CSS**
+**Deployment — Vercel · Firebase · Netlify**
 
 ---
 
