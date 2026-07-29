@@ -16,9 +16,7 @@
 
 3rd year IT undergrad & Data Engineer.
 
-I care about shipping pipelines that actually run in production, not just projects that look good in a README.
-
-Currently working through the DE Zoomcamp and building out projects on a real fintech-style dataset, alongside DSA fundamentals.
+I Ship Pipelines That Should Be A Need But Are Not.
 
 Open to internship opportunities in data engineering.
 
