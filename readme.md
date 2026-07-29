@@ -27,10 +27,15 @@ Open to internship opportunities in data engineering.
 **Languages — Python · JavaScript · TypeScript**
 
 **Data Engineering — SQL · Pandas · Airflow**
+
 **Databases — PostgreSQL · MongoDB · MySQL**
+
 **Backend — FastAPI · Node.js · Express**
+
 **AI/LLM — OpenAI API · Gemini API · HuggingFace · Ollama**
+
 **Frontend — React · HTML/CSS**
+
 **Deployment — Vercel · Firebase · Netlify**
 
 ---
