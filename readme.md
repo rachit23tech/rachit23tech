@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Rachit 👋</h1>
 
 <p align="center">
-  3rd year Undergrad • Data Engineer • Learning By Building
+  3rd year Undergrad • AI Software Developer • Learning By Building
 </p>
 
 <p align="center">
@@ -14,34 +14,30 @@
 
 ## About
 
-3rd year IT undergrad & Data Engineer.
+3rd year IT undergrad & Software Developer.
 
-I Ship Pipelines That Should Be A Need But Are Not.
-
-Open to internship opportunities in data engineering.
+Open to internship opportunities in Software Developer Or FullStack Developer Role.
 
 ---
 
 ## What I Build With
 
-**Languages — Python · JavaScript · TypeScript**
+**Languages — Java · Python · Typescript**
 
-**Data Engineering — SQL · Pandas · Airflow**
+**Databases — MongoDB · MySQL**
 
-**Databases — PostgreSQL · MongoDB · MySQL**
+**Backend — Node.js · Express**
 
-**Backend — FastAPI · Node.js · Express**
+**AI/LLM — OpenAI · Claude · Gemini**
 
-**AI/LLM — OpenAI API · Gemini API · HuggingFace · Ollama**
+**Frontend — React · HTML/CSS · NextJS**
 
-**Frontend — React · HTML/CSS**
-
-**Deployment — Vercel · Firebase · Netlify**
+**Deployment — Vercel · Firebase · Netlify · Render**
 
 ---
 
 ## Currently
 
 - 🎓 Studying Information Technology (undergrad)
-- 🔭 Building Pipelines that actually are a need
+- 🔭 Building Projects that are valued
 - 📬 Looking for internships — reach me at [arorarachit2005@gmail.com](mailto:arorarachit2005@gmail.com)
